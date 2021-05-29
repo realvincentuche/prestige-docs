@@ -1,0 +1,23 @@
+{
+  "name": "prestige-school-documentation",
+  "version": "1.0.0",
+  "description": "Prestigé School is a fully automated school that offers students, teachers, guardians and school administrators all the tools needed to fully carried out school activities online, thereby creating an unparalleled experience in the school learning process crucial to the intellectual development of students in our society today.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Quickprox",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.8.2",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-medium-zoom": "^1.8.2",
+    "@vuepress/plugin-nprogress": "^1.8.2",
+    "@vuepress/plugin-pwa": "^1.8.2",
+    "@vuepress/plugin-search": "^1.8.2",
+    "vuepress": "^1.8.2",
+    "vuepress-plugin-smooth-scroll": "^0.0.3"
+  }
+}

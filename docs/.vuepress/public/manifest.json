@@ -1,0 +1,21 @@
+{
+  "name": "Prestigé School Documentation",
+  "short_name": "Prestigé School Documentation",
+  "description": "Prestigé School is a fully automated school that offers students, teachers, guardians and school administrators all the tools needed to fully carried out school activities online, thereby creating an unparalleled experience in the school learning process crucial to the intellectual development of students in our society today.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3eaf7c",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ]
+}

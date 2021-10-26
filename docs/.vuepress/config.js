@@ -147,4 +147,5 @@ module.exports = {
       },
     ],
   ],
+  base: '/prestige-docs/'
 }
